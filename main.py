@@ -36,4 +36,4 @@ async def pingpong(
 ):
 	await i.response.send_message(f"{foo}", ephemeral=True)
 
-bot.run("OTQ2MjgwOTM3MjAzODM0ODgw.YhcazA.4UxBi1PkLOEMWp0ix6JDlZDNRUY")
+bot.run("TOKEN")
